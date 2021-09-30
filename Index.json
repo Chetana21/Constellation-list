@@ -124,7 +124,7 @@
 
    
      {
-        "id": 11,
+        "id": 12,
         "name": "Gemini",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
         "area": "514 sq deg",
@@ -147,7 +147,7 @@
         "name": "Vela",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Constellation_Vela.jpg",
         "area": "500 sq deg,
-        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
         "bordering constellations": ["Antlia", "Pyxix","Puppis","Carina","Centaurus"],
         "brightest star": "	γ Vel "
         }
