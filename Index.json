@@ -141,6 +141,15 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
         "bordering constellations": ["Scorpio", "Aquila"],
         "brightest star": "Epsilon Sagittarii"
+        },
+       {
+        "id": 14,
+        "name": "",Vela
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Constellation_Vela.jpg",
+        "area": "500 sq deg,
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March",
+        "bordering constellations": ["Antlia", "Pyxix","Puppis","Carina","Centaurus"],
+        "brightest star": "	γ Vel "
         }
 
 ]
